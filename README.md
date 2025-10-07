@@ -1,15 +1,15 @@
 #### MCS 1643 README file
-# **Replace this Project Name**
+# **Assignment 3 - PinBall**
 
-#### Author: *Replace this with your name*
+#### Author: *Abram Gancos*
 
-##### Modified: *2024-09-06*
+##### Modified: *2025-07-10*
 
 <br>
 
 #### Questions for tutorial assignments: (remove this section for projects)
 **Which tutorial is this? **
-
+## Assignment 3 
 **1. Did you make any additions beyond the tutorial requirements? If so, what?**
 > &nbsp;
 ><i>(let me know what to look for, any additional keys to use, etc.)</i>   
